@@ -1,4 +1,4 @@
-package first;
+package kata_8;
 
 import java.util.*;
 
