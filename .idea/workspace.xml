@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; String end with...">
-      <change afterPath="$PROJECT_DIR$/src/kata_8/digitOnDigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; digitOnDigit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678704106163</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Code Wars -&gt; digitOnDigit">
+      <created>1678714293914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678714293914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +94,8 @@
     <MESSAGE value="Code Wars -&gt; DuplicateEncoder" />
     <MESSAGE value="Code Wars -&gt; Multiples of 3 or 5" />
     <MESSAGE value="Code Wars -&gt; String end with..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Wars -&gt; String end with..." />
+    <MESSAGE value="Code Wars -&gt; digitOnDigit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Wars -&gt; digitOnDigit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
