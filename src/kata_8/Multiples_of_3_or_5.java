@@ -1,6 +1,5 @@
 package kata_8;
 
-
 import java.util.Scanner;
 
 public class Multiples_of_3_or_5 {
@@ -32,17 +31,17 @@ public class Multiples_of_3_or_5 {
                 System.out.println(i);
                 temp += i;
                 ++i;
-
             }
             else ++i;
         }
-        System.out.println(temp);
 
+        System.out.println(temp);
         return number;
     }
     public static void main(String[] args) {
         int input = 0;
         int output = 0;
+
         System.out.println("Введите число: ");
         Scanner sc = new Scanner(System.in);
         input = sc.nextInt();
