@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; kata 7 -&gt; maxOccurrences">
-      <change beforePath="$PROJECT_DIR$/src/kata_7/deleteOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_7/deleteOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kata_7/SumDigPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680016650572</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Code Wars -&gt; kata 7 -&gt; maxOccurrences">
+      <created>1680016689842</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680016689842</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,10 +147,15 @@
           <line>65</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kata_7/SumDigPower.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://D:/Program Files/Java/jdk-17/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java</url>
           <line>64</line>
-          <properties class="java.lang.ArrayIndexOutOfBoundsException" method="&lt;init&gt;">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
