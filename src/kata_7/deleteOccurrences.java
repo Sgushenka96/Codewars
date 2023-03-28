@@ -1,7 +1,6 @@
 package kata_7;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class deleteOccurrences {
     /**
@@ -36,18 +35,16 @@ public class deleteOccurrences {
      */
     public static void main(String[] args) {
         deleteNth(new int[]{1,2,3,0,0,1,0,1,4}, 1);
-        //deleteNth(new int[]{52, 37, 34, 49, 2, 15, 26, 32, 6, 20, 3, 16, 8, 3, 52, 26, 40, 11, 17, 6, 48, 28, 12, 23, 44, 41, 0, 53, 0, 39, 33, 48, 30, 1, 22, 14, 16, 39, 21, 43, 8, 35, 44, 3, 13, 53, 3, 20, 53, 22, 17, 25, 38, 17, 45},2);
-    }
+        }
 
 
-    // new int[]{20,30,20,40}, 1
+
     public static int[] deleteNth(int[] elements, int maxOccurrences) {     // массив чисел, и максимальное кол-во повторений.
         int[][] check = new int[elements.length][2];
         ArrayList<Integer> out = new ArrayList<>();
 
         for(int i = 0; i < check.length; i++){      // Основной пробор от 0 до N индекса
             check[i][0] = elements[i];
-            int count = 0;
             for (int j = 0; j < check.length; j++ ){
 
                 if (j > i) break;       // Если i нет смысла проверять дальше, то перекидываемся на следующий пробор

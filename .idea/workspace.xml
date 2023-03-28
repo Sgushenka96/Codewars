@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum">
-      <change afterPath="$PROJECT_DIR$/src/kata_7/deleteOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; kata 7 -&gt; maxOccurrences">
+      <change beforePath="$PROJECT_DIR$/src/kata_7/deleteOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kata_7/deleteOccurrences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680005155958</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Code Wars -&gt; kata 7 -&gt; maxOccurrences">
+      <created>1680016650572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680016650572</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,7 +128,8 @@
     <MESSAGE value="Code Wars -&gt; digitOnDigit" />
     <MESSAGE value="Code Wars -&gt; kata 7 -&gt; nextPerfectSquare" />
     <MESSAGE value="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum" />
+    <MESSAGE value="Code Wars -&gt; kata 7 -&gt; maxOccurrences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Wars -&gt; kata 7 -&gt; maxOccurrences" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
