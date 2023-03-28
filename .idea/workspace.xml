@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; kata 7 -&gt; nextPerfectSquare">
-      <change afterPath="$PROJECT_DIR$/src/kata_7/detectPandgram.java" afterDir="false" />
+    <list default="true" id="cc10e564-7a3f-4c8e-9d56-e1ade9c871c5" name="Changes" comment="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum">
+      <change afterPath="$PROJECT_DIR$/src/kata_7/deleteOccurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +32,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sgush/Desktop/Projects/Spring/taco-cloud&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678794877685</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Code Wars -&gt; kata 7 -&gt; nextPerfectSquare">
+      <created>1678795335709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678795335709</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum">
+      <created>1680005155958</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680005155958</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,7 +121,8 @@
     <MESSAGE value="Code Wars -&gt; String end with..." />
     <MESSAGE value="Code Wars -&gt; digitOnDigit" />
     <MESSAGE value="Code Wars -&gt; kata 7 -&gt; nextPerfectSquare" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Wars -&gt; kata 7 -&gt; nextPerfectSquare" />
+    <MESSAGE value="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Wars -&gt; kata 7 -&gt; Maximum subarray sum" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
